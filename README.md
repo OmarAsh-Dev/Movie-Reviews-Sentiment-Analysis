@@ -22,3 +22,6 @@ The goal was to build a complete transformer-based classifier, starting from raw
 * **Transformer:** All core components, including the self-attention mechanism and transformer blocks, were built using pure PyTorch.
 * **Custom Data Pipeline:** Implemented a custom `Dataset` class to handle tokenization, padding, and truncation on the fly.
 * **Classification Head:** Adapted the standard transformer architecture for a classification task by adding a mean pooling layer and a final linear head.
+
+## 🙏 Acknowledgments
+* This project is part of the **Udacity Future AWS AI Scientist Nanodegree**.
