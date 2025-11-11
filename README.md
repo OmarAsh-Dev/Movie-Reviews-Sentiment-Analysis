@@ -1,6 +1,6 @@
 # SentimentScope: A Transformer for IMDB Sentiment Analysis
 
-This is a project from the Udacity [Your Nanodegree Name] Nanodegree. I built a transformer model from scratch using PyTorch to perform sentiment analysis on the IMDB movie review dataset.
+This is a project from the Udacity Future AWS AI Scientist Nanodegree. I built a transformer model using PyTorch to perform sentiment analysis on the IMDB movie review dataset.
 
 **Final Test Accuracy: 76.61%**
 
